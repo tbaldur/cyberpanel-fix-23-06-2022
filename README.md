@@ -9,4 +9,6 @@ Fix: Delete the extra folders from "/usr/local/CyberCP/public" that belong to ph
 
 One click-command to fix the issue:
 
+```
 sh <(curl https://raw.githubusercontent.com/tbaldur/cyberpanel-fix-23-06-2022/main/fix.sh || wget -O - https://raw.githubusercontent.com/tbaldur/cyberpanel-fix-23-06-2022/main/fix.sh)
+```
