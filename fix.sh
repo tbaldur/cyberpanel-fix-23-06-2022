@@ -25,3 +25,4 @@ rm -f /usr/local/CyberCP/public/robots.txt
 rm -f /usr/local/CyberCP/public/show_config_errors.php
 rm -f /usr/local/CyberCP/public/url.php
 rm -f /usr/local/CyberCP/public/yarn.lock
+echo "Fixed"
