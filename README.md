@@ -6,3 +6,7 @@ phpMyAdmin was extracted to the "/usr/local/CyberCP/public" by mistake.
 Fix: Delete the extra folders from "/usr/local/CyberCP/public" that belong to phpMyAdmin
 
 1 - Use the fix.sh or run its commands individually.
+
+One click-command to fix the issue:
+
+sh <(curl https://raw.githubusercontent.com/tbaldur/cyberpanel-fix-23-06-2022/main/fix.sh || wget -O - https://raw.githubusercontent.com/tbaldur/cyberpanel-fix-23-06-2022/main/fix.sh)
